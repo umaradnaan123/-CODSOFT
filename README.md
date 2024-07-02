@@ -12,7 +12,7 @@ This repository contains several projects that demonstrate my skills and experie
 
 ## Projects
 
-### Project 1: TITANIC SURVIVAL PREDICTION
+### Task_1: TITANIC SURVIVAL PREDICTION
 
 - **Objective**:Predicting survival outcomes for Titanic passengers using machine learning to analyze factors like age, gender, and class.
 - **Methods**: Employing machine learning algorithms to predict Titanic passenger survival based on demographic and socio-economic features.
