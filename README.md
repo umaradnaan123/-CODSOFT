@@ -17,7 +17,7 @@ This repository contains several projects that demonstrate my skills and experie
 - **Objective**: Predict customer churn to reduce customer attrition rates.
 - **Methods**: Used classification algorithms (e.g., Logistic Regression, Random Forest) and feature engineering.
 - **Results**: Achieved 85% accuracy in predicting customer churn.
-- **Data Source**: [Project 1](.https://www.kaggle.com/datasets/yasserh/titanic-dataset)
+- **Data Source**: [Project 1]('https://www.kaggle.com/datasets/yasserh/titanic-dataset')
 
 ### Project 2: Sales Forecasting
 
