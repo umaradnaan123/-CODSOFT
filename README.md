@@ -12,12 +12,12 @@ This repository contains several projects that demonstrate my skills and experie
 
 ## Projects
 
-### Project 1: Customer Churn Prediction
+### Project 1: TITANIC SURVIVAL PREDICTION
 
 - **Objective**: Predict customer churn to reduce customer attrition rates.
 - **Methods**: Used classification algorithms (e.g., Logistic Regression, Random Forest) and feature engineering.
 - **Results**: Achieved 85% accuracy in predicting customer churn.
-- **Folder**: [Project 1 Folder](./Project1)
+- **Data Source**: [Project 1](.https://www.kaggle.com/datasets/yasserh/titanic-dataset)
 
 ### Project 2: Sales Forecasting
 
