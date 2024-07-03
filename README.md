@@ -25,7 +25,7 @@ This repository contains several projects that demonstrate my skills and experie
 - **Methods**: Utilizing supervised learning algorithms such as logistic regression, decision trees, and KNN to classify iris flowers based on sepal and petal measurements.
 - **Results**: logistic regression : accuracy for traning data is 0.9333333333333333
                         accuracy for test data is 0.8888888888888888 .
-  decision trees      : accuracy for training data is 1.0
+       decision trees      : accuracy for training data is 1.0
                         accuracy for test data is 0.8888888888888888.
   KNN                 : accuracy for training data is 1.0
                           accuracy for test data is 1.0
