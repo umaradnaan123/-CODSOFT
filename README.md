@@ -24,10 +24,10 @@ This repository contains several projects that demonstrate my skills and experie
 - **Objective**:To create a robust machine learning model for accurately classifying iris flowers based on their sepal and petal measurements.
 - **Methods**: Utilizing supervised learning algorithms such as logistic regression, decision trees, and KNN to classify iris flowers based on sepal and petal measurements.
 - **Results**:
-  1.logistic regression : accuracy for traning data is 0.9333333333333333
-                          accuracy for test data is 0.8888888888888888
-  2.decision trees      : accuracy for training data is 1.0
-                          accuracy for test data is 0.8888888888888888
-  3.KNN                 : accuracy for training data is 1.0
+- 1.logistic regression : accuracy for traning data is 0.9333333333333333
+-                         accuracy for test data is 0.8888888888888888
+- 2.decision trees      : accuracy for training data is 1.0
+-                         accuracy for test data is 0.8888888888888888
+- 3.KNN                 : accuracy for training data is 1.0
                           accuracy for test data is 1.0
 - **Data Source**: https://www.kaggle.com/datasets/arshid/iris-flower-dataset
